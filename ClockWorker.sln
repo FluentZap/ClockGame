@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockWorker", "ClockWorker\ClockWorker.csproj", "{C6449374-D40F-4B9B-B9C0-93925A815E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockWorkerTest", "ClockWorkerTest\ClockWorkerTest.csproj", "{0C9630CD-4BFA-42F9-A33D-CC041C182883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6449374-D40F-4B9B-B9C0-93925A815E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6449374-D40F-4B9B-B9C0-93925A815E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6449374-D40F-4B9B-B9C0-93925A815E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6449374-D40F-4B9B-B9C0-93925A815E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9630CD-4BFA-42F9-A33D-CC041C182883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9630CD-4BFA-42F9-A33D-CC041C182883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9630CD-4BFA-42F9-A33D-CC041C182883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9630CD-4BFA-42F9-A33D-CC041C182883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
